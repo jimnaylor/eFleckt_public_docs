@@ -1,6 +1,6 @@
 # eFleckt Terms and Conditions
 
-**Effective Date: April 18, 2026**
+**Effective Date: July 14, 2026**
 
 ## 1. Introduction
 
@@ -67,23 +67,15 @@ We will never:
 - Share Your Content publicly or use it for marketing purposes without your explicit consent
 - Claim ownership of Your Content
 
-**ANONYMIZED AGGREGATED DATA:**
+**AGGREGATED STATISTICS:**
 
-We may create anonymized, aggregated statistics and insights derived from user data across our user base. This anonymized data:
+We may generate aggregate statistics about how the Service is used — for example, the total number of entries created across all users, or the average length of a recording. These statistics contain no personal information, cannot be linked back to you or any individual, and do not constitute "Your Content" as defined in these Terms.
 
-- Cannot be used to identify you or any individual user
-- May be shared with researchers, partners, or the public
-- May be used to improve the Service or develop new features
-- May be licensed or sold for research or commercial purposes
-- Does not constitute "Your Content" as defined in these Terms
+We will not sell, license, or otherwise commercialize any data derived from your recordings, transcripts, or entry content — whether identifiable, pseudonymized, or aggregated.
 
 ### 4.4 AI Model Training
 
-We do not use Your Content to train third-party AI models or improve services for other companies.
-
-**LIMITED INTERNAL USE:**
-
-We may use anonymized, aggregated patterns to improve eFleckt's own AI features (e.g., improving sentiment analysis accuracy for all users), but only in ways that cannot identify individual users or their specific content.
+We do not use Your Content — including recordings, transcripts, summaries, embeddings, or emotional analysis — to train or improve any artificial intelligence model, whether ours or a third party's. Our agreements with the AI providers listed in our Privacy Policy do not permit them to use Your Content for model training. We improve eFleckt's AI features through prompt and pipeline engineering, not by training on user content.
 
 ### 4.5 Your Responsibilities
 
@@ -151,18 +143,11 @@ eFleckt uses a credit system for AI processing (transcription, emotion analysis,
 
 ## 8. Third-Party Services and Integrations
 
-eFleckt integrates with third-party providers to deliver the Service:
+eFleckt relies on third-party service providers to deliver the Service. **The authoritative, current list of providers — including each provider's role and the specific categories of data it receives — is maintained in Section 4.1 of our Privacy Policy**, which is the single source of truth for this information. Each provider that processes Your Content does so under terms that limit its use of your data to providing services to eFleckt.
 
-- **Supabase** — database, authentication, and file storage
-- **Replicate (OpenAI Whisper)** — voice-to-text transcription
-- **Google Gemini** — vocal emotion analysis and semantic embeddings
-- **Anthropic (Claude)** — AI synthesis, summaries, and insights
-- **RevenueCat** — in-app purchase and subscription management (iOS and Android)
-- **Stripe** — payment processing (web)
-- **Mapbox** — location search and map display
-- **PostHog** — app analytics and performance monitoring
+We will notify you, in the app or by email, before adding or replacing any provider that processes your recordings, transcripts, or entry content.
 
-Your use of these services is subject to their respective terms and privacy policies. We are not responsible for third-party actions or failures. For full details on what data is shared with each provider, see our Privacy Policy.
+Your use of these services is subject to their respective terms and privacy policies. We are not responsible for third-party actions or failures.
 
 ## 9. AI-Generated Content and Disclaimers
 
@@ -206,8 +191,8 @@ You agree to indemnify, defend, and hold harmless Naylormade, LLC, its officers,
 
 ## 13. Data Export and Account Deletion
 
-- **Data Export:** You may request a complete export of your data by emailing us. Exports will be fulfilled within 30 days.
-- **Account Deletion:** You may delete your account at any time from the Settings screen within the app. Upon deletion, you have 30 days to request a data export before your data is permanently deleted from active systems. Some data may persist in encrypted backups for up to 90 days.
+- **Data Export:** You may request a complete export of your data by emailing us. Exports will be fulfilled within 30 days. If you intend to delete your account, request your export **before** deleting — deletion is immediate and cannot be undone.
+- **Account Deletion:** You may delete your account at any time from the Settings screen within the app. Deletion takes effect immediately: your content is removed from active systems at the time of deletion, and residual copies in encrypted backups are purged within 90 days. There is no recovery or grace period after deletion.
 
 ## 14. Termination
 
@@ -221,7 +206,7 @@ We may suspend or terminate your access to the Service at any time for:
 You may terminate your account at any time by deleting it through the app. Upon termination:
 
 - Your access to the Service ceases immediately
-- Your data is deleted after 30 days (90 days from backups)
+- Your data is deleted from active systems immediately (within 90 days from encrypted backups)
 - Any remaining credits or prepaid subscription time are forfeited
 
 ## 15. Dispute Resolution
@@ -275,3 +260,12 @@ Email: efleckt@naylormade.io
 Address: 1267 Willis St., STE 200, Redding, CA 96001
 
 We will respond to your inquiry within a reasonable timeframe, typically within 5-7 business days.
+
+---
+
+## Version History
+
+| Effective Date | Summary |
+|---|---|
+| July 14, 2026 | Third-party provider list replaced with a pointer to Privacy Policy §4.1 (single source of truth; corrects an outdated transcription-vendor reference); aggregated-data and AI-training sections aligned with the Privacy Policy's never-sell / never-train commitments; account-deletion timing corrected to match actual behavior (immediate, no grace period) |
+| April 18, 2026 | Original published version |
