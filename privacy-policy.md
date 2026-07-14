@@ -1,6 +1,6 @@
 # eFleckt Privacy Policy
 
-**Effective Date: June 14, 2026**
+**Effective Date: July 14, 2026**
 
 ## 1. Introduction
 
@@ -90,6 +90,15 @@ We will never:
 - Share your data with advertisers or data brokers
 - Use your data for purposes unrelated to providing eFleckt
 
+### 3.3 Your Consent Controls
+
+Before any AI processing of your content, eFleckt asks for your consent on a dedicated consent screen — separate from your acceptance of these policies — with two independent choices:
+
+- **AI synthesis** (transcription, summaries, organization): required to use eFleckt's core features
+- **Emotion analysis** (vocal tone and content-based emotional insight): optional, off by default, and entirely your choice
+
+Each consent decision is recorded with a timestamp and a cryptographic fingerprint of the exact text you agreed to, so there is never ambiguity about what you consented to. You can withdraw either consent at any time in Settings; withdrawal takes effect immediately for all future processing.
+
 ## 4. How We Share Your Information
 
 We only share your information with service providers who are essential to operating eFleckt. Each provider receives only the minimum data necessary to perform their function.
@@ -106,16 +115,18 @@ We only share your information with service providers who are essential to opera
 | RevenueCat | In-app purchase and subscription management (iOS and Android) | Email address, purchase transactions |
 | Stripe | Payment processing (web subscriptions and credit packs) | Email address, purchase transactions (we never see or store your card number) |
 | Mapbox | Location search and map display | Search queries and coordinates (when you search for or view a location) |
-| PostHog | App analytics and performance monitoring | Anonymized usage events, AI processing metrics |
+| PostHog | App analytics and performance monitoring | Pseudonymous usage events (linked to your account ID, never to the content of your entries), AI processing metrics |
 | Vercel | Website hosting | Standard web traffic data for website visitors |
 
 ### 4.2 Legal Requirements
 
 We may disclose your information if required by law, regulation, legal process, or governmental request.
 
-### 4.3 Aggregated and Anonymized Data
+### 4.3 Aggregated Statistics
 
-We may use aggregated, anonymized data that cannot identify you personally (e.g., overall usage statistics, general emotional trends) to improve the Service.
+We may generate aggregate statistics about how the Service is used — for example, the total number of entries created across all users, or the average length of a recording. These statistics contain no personal information and cannot be linked back to you or any individual.
+
+We will not sell, license, or otherwise commercialize any data derived from your recordings, transcripts, or entry content — whether identifiable, pseudonymized, or aggregated.
 
 ## 5. Data Storage and Security
 
@@ -140,13 +151,17 @@ eFleckt caches data locally on your device using an encrypted SQLite database to
 - API keys and secrets stored securely in server-side environment variables
 - Audio files stored with per-user access controls
 
-While we implement robust security measures, no system is completely secure. You use the Service at your own risk.
+While we implement robust security measures, no system is completely secure. We describe our limits honestly in Section 5.4 and in "Our Privacy Commitments to You" below.
+
+### 5.4 Security Incidents
+
+If we become aware of a security breach affecting your personal data, we will notify affected users without undue delay where the breach is likely to result in a risk to you, and we will notify regulators where and when applicable law requires (including within 72 hours where GDPR Article 33 applies, and as required by California Civil Code §1798.82). Notification will describe what happened, what data was affected, what we have done about it, and what you should do.
 
 ## 6. Data Retention
 
 - **Active accounts:** Data is retained for the life of your account
 - **Deleted entries:** Removed from active systems promptly; removed from backups within 90 days
-- **Deleted accounts:** All content deleted within 30 days from active systems, 90 days from backups
+- **Deleted accounts:** Deleting your account removes your content from active systems immediately; residual copies in encrypted backups are purged within 90 days
 - **Payment records:** Retained for 7 years as required for tax and financial compliance
 - **AI processing logs:** Transient — not retained after processing is complete
 
@@ -178,7 +193,7 @@ eFleckt is not intended for users under 18 years of age. We do not knowingly col
 
 ## 10. International Data Transfers
 
-eFleckt is operated from the United States. Your information is stored and processed on servers located in the United States. By using eFleckt, you consent to the transfer and processing of your data in the United States. If you are located outside the United States, please be aware that data protection laws in the United States may differ from those in your country.
+eFleckt is operated from the United States, and your information is stored and processed on servers located in the United States (AWS US West, Oregon). If you are located outside the United States, please be aware that data protection laws in the United States may differ from those in your country. eFleckt is currently offered in the United States; if we make the Service available in the European Economic Area or the United Kingdom, we will put appropriate transfer safeguards in place and describe them here before doing so.
 
 ## 11. AI and Automated Processing
 
@@ -201,9 +216,9 @@ eFleckt uses artificial intelligence to enhance your experience:
 
 ## 12. Cookies and Tracking
 
-**Mobile App:** The eFleckt mobile app does not use cookies. Analytics are collected via PostHog's mobile SDK using anonymized event tracking.
+**Mobile App:** The eFleckt mobile app does not use cookies. Analytics are collected via PostHog's mobile SDK using pseudonymous event tracking (events are linked to your account ID so we can understand usage, but never contain your content).
 
-**What we track:** Product analytics include anonymized event data such as screens viewed, features used, and aggregate usage patterns. We use this data solely to improve the product. Analytics events never contain the content of your entries, the names of your cast members, the names of your locations, or any other personal narrative content. Your story stays yours — analytics only tells us which buttons you tap, not what you say.
+**What we track:** Product analytics include event data such as screens viewed, features used, and aggregate usage patterns. We use this data solely to improve the product. Analytics events never contain the content of your entries, the names of your cast members, the names of your locations, or any other personal narrative content. Your story stays yours — analytics only tells us which buttons you tap, not what you say.
 
 **Website:** Our website (hosted on Vercel) may use:
 
@@ -240,10 +255,19 @@ We will respond within 5-7 business days for general questions, and within 45 da
 
 **We will never use your content to train AI.** Your voice and words are processed only to serve you.
 
-**Privacy is our default.** Your journal is private by design — row-level security ensures only you can access your data.
+**Privacy is our default.** Your journal is private to you — row-level security means no other eFleckt user can ever see your entries. To transcribe and analyze your recordings, our servers and the AI providers listed in Section 4.1 do process your content; they may not use it for anything other than returning your results. A small number of Naylormade engineers can access production systems when required to fix a problem or respond to your support request. eFleckt is not end-to-end encrypted, and we will tell you plainly if that ever changes.
 
 **You can leave anytime.** Request a data export and delete your account whenever you want.
 
 **We're transparent.** We tell you exactly how we use your information and who we share it with.
 
 *These aren't just policies — they're promises.*
+
+---
+
+## Version History
+
+| Effective Date | Summary |
+|---|---|
+| July 14, 2026 | Consent controls documented (§3.3); aggregated-data and AI-training commitments aligned with the Terms of Service; PostHog analytics correctly described as pseudonymous; security commitments clarified (no-overclaim wording, new §5.4 breach notification); deletion timing corrected to match actual behavior (immediate); international-transfer wording revised |
+| June 14, 2026 | Original published version |
