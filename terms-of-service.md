@@ -191,8 +191,8 @@ You agree to indemnify, defend, and hold harmless Naylormade, LLC, its officers,
 
 ## 13. Data Export and Account Deletion
 
-- **Data Export:** You may request a complete export of your data by emailing us. Exports will be fulfilled within 30 days. If you intend to delete your account, request your export **before** deleting — deletion is immediate and cannot be undone.
-- **Account Deletion:** You may delete your account at any time from the Settings screen within the app. Deletion takes effect immediately: your content is removed from active systems at the time of deletion, and residual copies in encrypted backups are purged within 90 days. There is no recovery or grace period after deletion.
+- **Data Export:** You may export a complete archive of your data — including your audio recordings — at any time using the self-serve export on our website. Self-serve export is available in every account state, including lapsed subscriptions. You may also request an export by emailing us; emailed requests are fulfilled within 30 days.
+- **Account Deletion:** You may delete your account at any time from the Settings screen within the app. Deletion is scheduled, not instant: for 30 days your account is deactivated and can be fully restored by signing back in. After the 30-day recovery window, your content is permanently removed from active systems, and residual copies in encrypted backups are purged within 90 days of that removal. After the recovery window ends, deletion cannot be undone.
 
 ## 14. Termination
 
@@ -206,8 +206,8 @@ We may suspend or terminate your access to the Service at any time for:
 You may terminate your account at any time by deleting it through the app. Upon termination:
 
 - Your access to the Service ceases immediately
-- Your data is deleted from active systems immediately (within 90 days from encrypted backups)
-- Any remaining credits or prepaid subscription time are forfeited
+- Your data is deleted on the schedule described in Section 13 (a 30-day recovery window, then removal from active systems and purge from encrypted backups within 90 days)
+- Any remaining credits or prepaid subscription time are forfeited, except as described in the Privacy Policy's retention section for lapsed subscriptions
 
 ## 15. Dispute Resolution
 

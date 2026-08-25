@@ -160,8 +160,11 @@ If we become aware of a security breach affecting your personal data, we will no
 ## 6. Data Retention
 
 - **Active accounts:** Data is retained for the life of your account
-- **Deleted entries:** Removed from active systems promptly; removed from backups within 90 days
-- **Deleted accounts:** Deleting your account removes your content from active systems immediately; residual copies in encrypted backups are purged within 90 days
+- **Deleted entries:** Individual entries you delete are recoverable for 72 hours, then removed from active systems; removed from backups within 90 days
+- **Deleted accounts:** Deleting your account starts a 30-day recovery window during which signing back in fully restores it. After the window, your content is removed from active systems and residual copies in encrypted backups are purged within 90 days
+- **Lapsed subscriptions:** If your subscription lapses, your account becomes read-only and your library is retained for 3 years from your last activity. During that period we send periodic reminders and a final warning before anything is removed; recording new entries or resubscribing resets the window. At the end of the period the account follows the deleted-account schedule above (30-day recovery, then purge), and any unused purchased credits are refunded at that time
+- **Legacy-released archives:** An archive that has been released to your designated legacy contact is exempt from the lapsed-subscription schedule
+- **Expired trials:** Trial accounts that never subscribe are removed after the trial expires, following notice
 - **Payment records:** Retained for 7 years as required for tax and financial compliance
 - **AI processing logs:** Transient — not retained after processing is complete
 
@@ -170,7 +173,7 @@ If we become aware of a security breach affecting your personal data, we will no
 You have significant control over your information:
 
 - **Access Your Data:** View all content through the app or request a complete copy
-- **Export Your Data:** Request a data export by emailing us; fulfilled within 30 days
+- **Export Your Data:** Run a self-serve archive export (including audio) from our website at any time, or request one by email (fulfilled within 30 days)
 - **Correct or Update:** Update your name and date of birth anytime through account settings
 - **Delete Your Data:** Delete individual entries, cast members, or locations within the app, or delete your entire account
 - **Control AI Processing:** Review and edit AI-generated classifications, chapter assignments, and summaries
