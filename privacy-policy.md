@@ -115,7 +115,7 @@ We only share your information with service providers who are essential to opera
 | RevenueCat | In-app purchase and subscription management (iOS and Android) | Email address, purchase transactions |
 | Stripe | Payment processing (web subscriptions and credit packs) | Email address, purchase transactions (we never see or store your card number) |
 | Mapbox | Location search and map display | Search queries and coordinates (when you search for or view a location) |
-| PostHog | App analytics and performance monitoring | Pseudonymous usage events (linked to your account ID, never to the content of your entries), AI processing metrics |
+| PostHog | App analytics, performance monitoring, and customer support | Pseudonymous usage events (linked to your account ID, never to the content of your entries), AI processing metrics. When you contact support — through our website, by email, or via in-app feedback — your message, contact email, and related session information are also processed through PostHog under the same data processing agreement, so we can respond to you |
 | Vercel | Website hosting | Standard web traffic data for website visitors |
 
 ### 4.2 Legal Requirements
