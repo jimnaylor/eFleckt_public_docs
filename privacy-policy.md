@@ -168,7 +168,18 @@ If we become aware of a security breach affecting your personal data, we will no
 - **Payment records:** Retained for 7 years as required for tax and financial compliance
 - **AI processing logs:** Transient — not retained after processing is complete
 
-## 7. Your Rights and Choices
+## 7. Legacy Contacts
+
+If you designate a Legacy Contact (see Terms of Service §19), we process a small amount of information about the person you designate — before they have agreed to anything themselves. This section describes that processing.
+
+- **What we collect:** the name and email address you provide for your contact, used to send them your invitation. Our lawful basis for this is legitimate interest in carrying out your designation; the invitation email itself explains why they received it.
+- **If they accept:** we record their acceptance, when it happened, and which form of verification was used (a matching signed-in email, or the single-use code sent to the invited address).
+- **If they decline:** we immediately erase their name and email address, keeping only a one-way hash of the email and a timestamp as an audit record that an invitation was declined.
+- **Notifications:** if a release countdown ever starts on your account, we notify you at your account email address, and we log whether delivery succeeded. As the Terms describe, the countdown does not depend on delivery.
+- **After a release:** your contact receives read-only access to your archive and a downloadable export. Their own account information is handled under this Privacy Policy like any other account. A released archive is preserved for your contact regardless of your subscription status, retained until your contact chooses to delete it; your contact can exercise deletion rights over the archive they hold.
+- **Your control:** you can change or revoke your designated contact at any time, from any state of the process — the Terms of Service describe the mechanics and their limits (an export already downloaded before revocation is outside our systems).
+
+## 8. Your Rights and Choices
 
 You have significant control over your information:
 
@@ -179,7 +190,7 @@ You have significant control over your information:
 - **Control AI Processing:** Review and edit AI-generated classifications, chapter assignments, and summaries
 - **Opt Out of Analytics:** Contact us to opt out of PostHog analytics tracking
 
-## 8. California Residents' Rights (CCPA)
+## 9. California Residents' Rights (CCPA)
 
 California residents have additional rights under the CCPA:
 
@@ -190,15 +201,15 @@ California residents have additional rights under the CCPA:
 
 To exercise these rights, contact us at efleckt@naylormade.io. We will respond within 45 days.
 
-## 9. Children's Privacy
+## 10. Children's Privacy
 
 eFleckt is not intended for users under 18 years of age. We do not knowingly collect information from anyone under 18. If we discover that we have collected information from a user under 18, we will delete it immediately. If you believe a child under 18 has provided us with personal information, please contact us at efleckt@naylormade.io.
 
-## 10. International Data Transfers
+## 11. International Data Transfers
 
 eFleckt is operated from the United States, and your information is stored and processed on servers located in the United States (AWS US West, Oregon). If you are located outside the United States, please be aware that data protection laws in the United States may differ from those in your country. eFleckt is currently offered in the United States; if we make the Service available in the European Economic Area or the United Kingdom, we will put appropriate transfer safeguards in place and describe them here before doing so.
 
-## 11. AI and Automated Processing
+## 12. AI and Automated Processing
 
 eFleckt uses artificial intelligence to enhance your experience:
 
@@ -217,7 +228,7 @@ eFleckt uses artificial intelligence to enhance your experience:
 - You can review and edit all AI-generated content (summaries, classifications, chapter assignments)
 - We do not use your recordings or entries to train any AI models — your content is processed only to generate results for you
 
-## 12. Cookies and Tracking
+## 13. Cookies and Tracking
 
 **Mobile App:** The eFleckt mobile app does not use cookies. Analytics are collected via PostHog's mobile SDK using pseudonymous event tracking (events are linked to your account ID so we can understand usage, but never contain your content).
 
@@ -227,11 +238,11 @@ eFleckt uses artificial intelligence to enhance your experience:
 
 We do NOT use advertising cookies, cross-site tracking, or retargeting on either the app or website.
 
-## 13. Changes to This Privacy Policy
+## 14. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. We will notify you of material changes by posting the new policy in the app and updating the "Effective Date" at the top. Your continued use of eFleckt after changes are posted constitutes your acceptance of the updated policy.
 
-## 14. Contact Us
+## 15. Contact Us
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:
 
@@ -269,6 +280,6 @@ We will respond within 5-7 business days for general questions, and within 45 da
 
 | Effective Date | Summary |
 |---|---|
-| *Pending counsel review* | Account-deletion recovery described with the one-click email restore; lapsed-subscription retention keeps the recording-activity extension; unused-credit disposition at end of retention bracketed for counsel; expired-trial cleanup described with its warning and recovery window; website cookie section updated to the consent-first cookieless model |
+| *Pending counsel review* | New §7 Legacy Contacts (processing of a designated contact's data: invite basis, acceptance record, decline erasure with hashed tombstone, post-release handling); subsequent sections renumbered. Account-deletion recovery described with the one-click email restore; lapsed-subscription retention keeps the recording-activity extension; unused-credit disposition at end of retention bracketed for counsel; expired-trial cleanup described with its warning and recovery window; website cookie section updated to the consent-first cookieless model |
 | July 14, 2026 | Consent controls documented (§3.3); aggregated-data and AI-training commitments aligned with the Terms of Service; PostHog analytics correctly described as pseudonymous; security commitments clarified (no-overclaim wording, new §5.4 breach notification); deletion timing corrected to match actual behavior (immediate); international-transfer wording revised |
 | June 14, 2026 | Original published version |
