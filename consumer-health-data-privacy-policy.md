@@ -13,7 +13,9 @@ eFleckt collects two things that these laws may treat as consumer health data:
 - **Vocal emotion inferences (only if you opt in).** If you enable emotion analysis, our AI infers emotional states — for example calmness, joy, sadness — from the sound of your voice in a recording, and attaches those inferences to the entry. This is inference of mental state from biometric-adjacent data, and it is **off by default**. It happens only after you give explicit, specific consent in the app, and never for guided interview recordings, which are excluded from emotion analysis entirely.
 - **Health information you choose to speak into your journal.** eFleckt is a life-story journal; if you talk about an illness, a diagnosis, a medication, or your mental health, that content appears in your recordings, transcripts, and AI-written summaries. We do not seek this information out, categorize it, or use it for anything beyond producing your own journal — but because you may include it, we treat your journal content with the protections this policy describes.
 
-We do **not** collect health data from wearables, health apps, healthcare providers, data brokers, advertisers, or any outside source. We do not use geofencing of any kind, including around healthcare facilities.
+We do **not** read data from health platforms or sensors — no HealthKit, Google Fit, heart rate, sleep, or fitness data — and we collect nothing about your health from healthcare providers, data brokers, advertisers, or any outside source. (Using an eFleckt app on a watch or other device to record your voice doesn't change this; a microphone is a microphone.) We do not use geofencing of any kind, including around healthcare facilities.
+
+If we ever build an optional feature that reads from a health platform or sensor, it will be off by default, require its own explicit consent before any data flows, and this policy will be updated before the feature launches.
 
 ## 2. Sources
 
