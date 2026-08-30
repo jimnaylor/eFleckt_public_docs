@@ -1,6 +1,6 @@
 # eFleckt Privacy Policy
 
-**Effective Date: July 14, 2026**
+**Effective Date: July 14, 2026** *(revision draft under counsel review — new effective date set on publication)*
 
 ## 1. Introduction
 
@@ -161,10 +161,10 @@ If we become aware of a security breach affecting your personal data, we will no
 
 - **Active accounts:** Data is retained for the life of your account
 - **Deleted entries:** Individual entries you delete are recoverable for 72 hours, then removed from active systems; removed from backups within 90 days
-- **Deleted accounts:** Deleting your account starts a 30-day recovery window during which signing back in fully restores it. After the window, your content is removed from active systems and residual copies in encrypted backups are purged within 90 days
-- **Lapsed subscriptions:** If your subscription lapses, your account becomes read-only and your library is retained for 3 years from your last activity. During that period we send periodic reminders and a final warning before anything is removed; recording new entries or resubscribing resets the window. At the end of the period the account follows the deleted-account schedule above (30-day recovery, then purge), and any unused purchased credits are refunded at that time
+- **Deleted accounts:** Deleting your account starts a 30-day recovery window during which one click on the restore link in the confirmation email (or a reply to that email) fully restores it. After the window, your content is removed from active systems and residual copies in encrypted backups are purged within 90 days
+- **Lapsed subscriptions:** If your subscription lapses, your account becomes read-only and your library is retained for 3 years from your last activity. During that period we send periodic reminders and a final warning before anything is removed; recording new entries or resubscribing resets the window. At the end of the period the account follows the deleted-account schedule above (30-day recovery, then purge). *[Under counsel review: disposition of unused purchased credits when a retained archive reaches the end of its window — final language pending.]*
 - **Legacy-released archives:** An archive that has been released to your designated legacy contact is exempt from the lapsed-subscription schedule
-- **Expired trials:** Trial accounts that never subscribe are removed after the trial expires, following notice
+- **Expired trials:** Trial accounts that never subscribe are deactivated after the trial period, following an emailed warning, with the same 30-day recovery window before permanent removal
 - **Payment records:** Retained for 7 years as required for tax and financial compliance
 - **AI processing logs:** Transient — not retained after processing is complete
 
@@ -223,10 +223,7 @@ eFleckt uses artificial intelligence to enhance your experience:
 
 **What we track:** Product analytics include event data such as screens viewed, features used, and aggregate usage patterns. We use this data solely to improve the product. Analytics events never contain the content of your entries, the names of your cast members, the names of your locations, or any other personal narrative content. Your story stays yours — analytics only tells us which buttons you tap, not what you say.
 
-**Website:** Our website (hosted on Vercel) may use:
-
-- Essential cookies required for website functionality
-- Analytics (PostHog) to understand website usage — you can opt out
+**Website:** Our website runs a single analytics tool (PostHog) and no advertising trackers. By default it operates **cookieless**: nothing is stored on your device, and analytics are anonymous and session-only. A small banner offers one optional analytics cookie; if you accept, an identifier is stored (cookie and local storage) so we can understand returning visits. If you decline, the cookieless default simply continues. Your choice itself is remembered in local storage as strictly-necessary storage, so we don't ask again. Essential storage required for site functionality — such as your sign-in session — does not depend on this choice.
 
 We do NOT use advertising cookies, cross-site tracking, or retargeting on either the app or website.
 
@@ -272,5 +269,6 @@ We will respond within 5-7 business days for general questions, and within 45 da
 
 | Effective Date | Summary |
 |---|---|
+| *Pending counsel review* | Account-deletion recovery described with the one-click email restore; lapsed-subscription retention keeps the recording-activity extension; unused-credit disposition at end of retention bracketed for counsel; expired-trial cleanup described with its warning and recovery window; website cookie section updated to the consent-first cookieless model |
 | July 14, 2026 | Consent controls documented (§3.3); aggregated-data and AI-training commitments aligned with the Terms of Service; PostHog analytics correctly described as pseudonymous; security commitments clarified (no-overclaim wording, new §5.4 breach notification); deletion timing corrected to match actual behavior (immediate); international-transfer wording revised |
 | June 14, 2026 | Original published version |

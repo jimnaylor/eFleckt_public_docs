@@ -1,6 +1,6 @@
 # eFleckt Terms and Conditions
 
-**Effective Date: July 14, 2026**
+**Effective Date: July 14, 2026** *(revision draft under counsel review — new effective date set on publication)*
 
 ## 1. Introduction
 
@@ -133,7 +133,7 @@ We grant you a limited, non-exclusive, non-transferable, revocable license to ac
 
 eFleckt offers subscription plans with different features and pricing tiers, available as monthly or annual plans. Payments are processed through RevenueCat (iOS and Android in-app purchases) or Stripe (web). Subscriptions auto-renew unless canceled.
 
-eFleckt uses a credit system for AI processing (transcription, emotion analysis, and AI synthesis). Each credit covers one entry of any length. Credits are included with subscription plans and can also be purchased separately as credit packs. Purchased credits do not expire while your account is active. Credit pack pricing may vary by platform to reflect processing and distribution costs.
+eFleckt uses a credit system for AI processing (transcription, emotion analysis, and AI synthesis). One credit covers one standard entry; entries run up to 5 minutes. Guided interviews may run longer and cost one credit per 5 minutes of recording. Monthly credits included with a subscription refresh each month and do not carry over; purchased credit packs do not expire while your account exists. If your subscription lapses, you may continue recording pay-as-you-go using purchased credits at a rate of 2 credits per entry. Credit pack pricing may vary by platform to reflect processing and distribution costs.
 
 **Key points:**
 
@@ -192,7 +192,7 @@ You agree to indemnify, defend, and hold harmless Naylormade, LLC, its officers,
 ## 13. Data Export and Account Deletion
 
 - **Data Export:** You may export a complete archive of your data — including your audio recordings — at any time using the self-serve export on our website. Self-serve export is available in every account state, including lapsed subscriptions. You may also request an export by emailing us; emailed requests are fulfilled within 30 days.
-- **Account Deletion:** You may delete your account at any time from the Settings screen within the app. Deletion is scheduled, not instant: for 30 days your account is deactivated and can be fully restored by signing back in. After the 30-day recovery window, your content is permanently removed from active systems, and residual copies in encrypted backups are purged within 90 days of that removal. After the recovery window ends, deletion cannot be undone.
+- **Account Deletion:** You may delete your account at any time from the Settings screen within the app. Deletion is scheduled, not instant: for 30 days your account is deactivated and can be fully restored with one click on the restore link in the confirmation email (or by replying to that email). After the 30-day recovery window, your content is permanently removed from active systems, and residual copies in encrypted backups are purged within 90 days of that removal. After the recovery window ends, deletion cannot be undone.
 
 ## 14. Termination
 
@@ -207,7 +207,8 @@ You may terminate your account at any time by deleting it through the app. Upon 
 
 - Your access to the Service ceases immediately
 - Your data is deleted on the schedule described in Section 13 (a 30-day recovery window, then removal from active systems and purge from encrypted backups within 90 days)
-- Any remaining credits or prepaid subscription time are forfeited, except as described in the Privacy Policy's retention section for lapsed subscriptions
+- If you terminate your account, or we terminate it for your breach of these Terms or fraud, any remaining credits or prepaid subscription time are forfeited, except as described in the Privacy Policy's retention section for lapsed subscriptions
+- If we terminate or suspend your account for business reasons, extended inactivity, or any reason other than your breach of these Terms or fraud, we will refund the unused portion of any prepaid subscription on a pro-rata basis and refund any unused purchased credit packs at the price paid
 
 ## 15. Dispute Resolution
 
@@ -238,16 +239,32 @@ We may modify these Terms at any time. We will provide at least 30 days' notice 
 - **No Waiver:** Our failure to enforce any provision of these Terms does not constitute a waiver of that provision.
 - **Assignment:** You may not assign or transfer these Terms without our prior written consent. We may assign these Terms freely.
 
-## 19. Future Features: Inheritance and Beneficiaries
+## 19. Legacy Contact
 
-eFleckt may introduce beneficiary designation features in the future that allow you to designate who should receive access to your content. Such features:
+> *[DRAFT FOR COUNSEL — Pat supplied final clause language in the August 2026 review; replace this section with his verbatim text (or reconcile) before merge. Drafted here from the implemented mechanism so the document is complete for review.]*
 
-- Are NOT legal estate planning documents
-- Do NOT replace a will, trust, or other legal instrument
-- Do NOT constitute legal advice
+eFleckt lets you designate one **Legacy Contact**: a person who may someday receive read-only access to your complete archive, including voice recordings, transcripts, AI-generated summaries, and emotion analysis.
+
+**Designation and acceptance.** You designate a legacy contact by name and email from within the app. The contact receives an email invitation and must accept it on our website — either signed in with the invited email address, or by proving possession of the invited inbox with a single-use verification code. Their consent, and the form of verification used, are recorded at acceptance. Invitations expire if not accepted.
+
+**When access is released.** The archive opens to your contact in exactly three ways:
+
+1. **Inactivity.** You choose a quiet window of 3 to 18 months (12 by default). If that many months pass without a sign-in from you, a 30-day countdown begins.
+2. **Your contact asks.** An accepted contact may request access (limited to two requests per rolling 90 days). A request begins the same 30-day countdown.
+3. **You choose it.** You may release the archive to your contact voluntarily at any time, effective immediately.
+
+During any countdown, **a single sign-in by you — app or website — cancels it.** We notify you at your account email when a countdown starts and again before it completes; the countdown proceeds on schedule even if email delivery fails, since an unreachable inbox is the expected condition of the account holder the feature exists for. Delivery failures are logged.
+
+**Your control.** You may change or revoke your legacy contact at any time, from any state — including after a release has completed. If your own inactivity window releases the archive while you are alive (for example, during an extended absence), signing in and revoking restores your sole access.
+
+**Preservation.** An account with an accepted legacy designation is exempt from our inactivity- and lapse-based account cleanup until the legacy process has run its course, and a released archive is preserved for your contact regardless of subscription status. Access is free for your contact and includes a downloadable export they may keep outside our systems.
+
+**This is not estate planning.** The Legacy Contact feature:
+
+- Is NOT a legal estate planning document
+- Does NOT replace a will, trust, or other legal instrument
+- Does NOT constitute legal advice
 - Should be used in conjunction with proper legal estate planning
-
-This feature is not currently available and will be subject to additional terms when introduced.
 
 ## 20. Contact Information
 
@@ -267,5 +284,6 @@ We will respond to your inquiry within a reasonable timeframe, typically within 
 
 | Effective Date | Summary |
 |---|---|
+| *Pending counsel review* | Account deletion corrected to the shipped 30-day recovery window with one-click email restore; self-serve data export described (email as fallback); credit pricing detailed (5-minute entries, per-5-minute interviews, monthly refresh, lapsed pay-as-you-go rate); pro-rata refund added for termination on our side other than breach or fraud; Legacy Contact clause replaces the future-features placeholder |
 | July 14, 2026 | Third-party provider list replaced with a pointer to Privacy Policy §4.1 (single source of truth; corrects an outdated transcription-vendor reference); aggregated-data and AI-training sections aligned with the Privacy Policy's never-sell / never-train commitments; account-deletion timing corrected to match actual behavior (immediate, no grace period) |
 | April 18, 2026 | Original published version |
