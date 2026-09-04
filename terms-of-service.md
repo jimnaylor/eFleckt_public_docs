@@ -1,6 +1,6 @@
 # eFleckt Terms and Conditions
 
-**Effective Date: July 14, 2026**
+**Effective Date: September 4, 2026**
 
 ## 1. Introduction
 
@@ -133,7 +133,7 @@ We grant you a limited, non-exclusive, non-transferable, revocable license to ac
 
 eFleckt offers subscription plans with different features and pricing tiers, available as monthly or annual plans. Payments are processed through RevenueCat (iOS and Android in-app purchases) or Stripe (web). Subscriptions auto-renew unless canceled.
 
-eFleckt uses a credit system for AI processing (transcription, emotion analysis, and AI synthesis). Each credit covers one entry of any length. Credits are included with subscription plans and can also be purchased separately as credit packs. Purchased credits do not expire while your account is active. Credit pack pricing may vary by platform to reflect processing and distribution costs.
+eFleckt uses a credit system for AI processing (transcription, emotion analysis, and AI synthesis). One credit covers one standard entry; entries run up to 5 minutes. Guided interviews may run longer and cost one credit per 5 minutes of recording. Monthly credits included with a subscription refresh each month and do not carry over; purchased credit packs do not expire while your account exists. If your subscription lapses, you may continue recording pay-as-you-go using purchased credits at a rate of 2 credits per entry. Credit pack pricing may vary by platform to reflect processing and distribution costs.
 
 **Key points:**
 
@@ -191,8 +191,8 @@ You agree to indemnify, defend, and hold harmless Naylormade, LLC, its officers,
 
 ## 13. Data Export and Account Deletion
 
-- **Data Export:** You may request a complete export of your data by emailing us. Exports will be fulfilled within 30 days. If you intend to delete your account, request your export **before** deleting — deletion is immediate and cannot be undone.
-- **Account Deletion:** You may delete your account at any time from the Settings screen within the app. Deletion takes effect immediately: your content is removed from active systems at the time of deletion, and residual copies in encrypted backups are purged within 90 days. There is no recovery or grace period after deletion.
+- **Data Export:** You may export a complete archive of your data — including your audio recordings — at any time using the self-serve export on our website. Self-serve export is available in every account state, including lapsed subscriptions. You may also request an export by emailing us; emailed requests are fulfilled within 30 days.
+- **Account Deletion:** You may delete your account at any time from the Settings screen within the app. Deletion is scheduled, not instant: for 30 days your account is deactivated and can be fully restored with one click on the restore link in the confirmation email (or by replying to that email). After the 30-day recovery window, your content is permanently removed from active systems, and residual copies in encrypted backups are purged within 90 days of that removal. After the recovery window ends, deletion cannot be undone.
 
 ## 14. Termination
 
@@ -206,8 +206,9 @@ We may suspend or terminate your access to the Service at any time for:
 You may terminate your account at any time by deleting it through the app. Upon termination:
 
 - Your access to the Service ceases immediately
-- Your data is deleted from active systems immediately (within 90 days from encrypted backups)
-- Any remaining credits or prepaid subscription time are forfeited
+- Your data is deleted on the schedule described in Section 13 (a 30-day recovery window, then removal from active systems and purge from encrypted backups within 90 days)
+- If you terminate your account, or we terminate it for your breach of these Terms or fraud, any remaining credits or prepaid subscription time are forfeited, except as described in the Privacy Policy's retention section for lapsed subscriptions
+- If we terminate or suspend your account for business reasons, extended inactivity, or any reason other than your breach of these Terms or fraud, we will refund the unused portion of any prepaid subscription on a pro-rata basis and refund any unused purchased credit packs at the price paid
 
 ## 15. Dispute Resolution
 
@@ -238,16 +239,34 @@ We may modify these Terms at any time. We will provide at least 30 days' notice 
 - **No Waiver:** Our failure to enforce any provision of these Terms does not constitute a waiver of that provision.
 - **Assignment:** You may not assign or transfer these Terms without our prior written consent. We may assign these Terms freely.
 
-## 19. Future Features: Inheritance and Beneficiaries
+## 19. Legacy Contact
 
-eFleckt may introduce beneficiary designation features in the future that allow you to designate who should receive access to your content. Such features:
+**19.1 Overview of the Legacy Contact Feature.** The Service offers an optional feature ("Legacy Contact") that allows an account holder ("Owner") to designate one individual ("Contact") to receive read-only access to the Owner's archived content, including voice recordings, transcripts, AI-generated summaries, and emotion analysis (collectively, "Archive"), upon the Owner's death, extended inactivity, or voluntary release.
 
-- Are NOT legal estate planning documents
-- Do NOT replace a will, trust, or other legal instrument
-- Do NOT constitute legal advice
+**19.2 Designating and Accepting a Legacy Contact.** An Owner may designate one Contact by providing the Contact's email address. The Contact will receive an email invitation and must accept the designation by either (a) creating or logging into an account on our website using an email address that matches the invited address, or (b) entering a single-use six-digit code provided in the invitation. A designation is not active, and no rights or access arise from it, until acceptance is completed through one of these methods. The Owner may change or revoke the designated Contact at any time before or after acceptance.
+
+**19.3 Inactivity-Based Release.** An Owner may configure an inactivity period of between three (3) and eighteen (18) months (default: twelve (12) months) after which, if the Owner has not signed in to the Service, release of the Archive to an accepted Contact may begin in accordance with Section 19.5. The Owner may change this configured period at any time while the Owner remains active. This inactivity timer is a release trigger only and does not affect the Owner's account while the Owner is alive and using the Service. A living Owner who exceeds the configured inactivity period will not lose access to, or control over, their account or Archive on that basis alone; the Owner's sign-in at any point, including after the countdown described in Section 19.5 has begun, cancels the pending release as set out below.
+
+**19.4 Contact-Initiated Requests.** An accepted Contact may separately request release of the Archive, for example if the Contact believes the Owner has died or is otherwise unable to sign in. Such requests are limited to two (2) per rolling ninety (90)-day period per Contact. A contact-initiated request begins the same thirty (30)-day countdown described in Section 19.5.
+
+**19.5 Thirty-Day Countdown and Owner Veto.** Once release is triggered, a fixed thirty (30)-day countdown begins before the Archive is released. We will attempt to notify the Owner of the pending release at the email address on file for the account. The countdown proceeds on schedule regardless of whether that notification is successfully delivered, opened, or read. Any sign-in by the Owner during the thirty (30)-day period, whether through the app or the website, cancels the pending release immediately. If no such sign-in occurs before the countdown ends, release proceeds as described in Section 19.6.
+
+**19.6 Voluntary Self-Release.** An Owner may, at their own election and while able to access their account, voluntarily release the Archive to an accepted Contact immediately, without waiting for the inactivity period or the thirty (30)-day countdown.
+
+**19.7 Method of Delivery.** Where release occurs under Sections 19.5 or 19.6, the Contact will be given the choice of receiving the Archive as (a) a downloadable export that the Contact may retain independently of the Service, requiring no app installation or subscription, or (b) read-only access within the Service itself. The Contact's access under either method is limited to viewing and downloading the Archive as it existed at the time of release and does not include any ability to modify, delete, or manage the Owner's account.
+
+**19.8 Revocation.** The Owner may revoke a Contact's designation at any time and from any state of the designation or release process, including before acceptance, during an active countdown, and after a release has already completed, regardless of which release path (inactivity, Contact request, or voluntary self-release) produced it and regardless of which delivery method was used. Revocation after a completed release will terminate any ongoing in-app read-only access granted under Section 19.7(b) going forward, but we cannot recall, delete, or otherwise affect copies of an export already downloaded under Section 19.7(a) before revocation, as those copies exist outside our systems.
+
+**19.9 Effect on Account Cleanup and Deletion.** Our standard policies of deactivating and deleting accounts after an extended period of non-payment or inactivity, as described in the Privacy Policy's Data Retention section, do not apply to any account with an accepted Legacy Contact designation. Such accounts are exempt from deactivation and deletion until the applicable release process described in this section, including any pending thirty (30)-day countdown, has fully run its course, regardless of the account's payment or activity status.
+
+**19.10 No Guarantee of Notice or Timing.** Because notifications are sent to the email address on file and delivery cannot be guaranteed, Owners are responsible for keeping their account email address current and for understanding that the timelines in this section run independently of whether notifications are actually received.
+
+**19.11 Not Estate Planning.** The Legacy Contact feature:
+
+- Is NOT a legal estate planning document
+- Does NOT replace a will, trust, or other legal instrument
+- Does NOT constitute legal advice
 - Should be used in conjunction with proper legal estate planning
-
-This feature is not currently available and will be subject to additional terms when introduced.
 
 ## 20. Contact Information
 
@@ -267,5 +286,6 @@ We will respond to your inquiry within a reasonable timeframe, typically within 
 
 | Effective Date | Summary |
 |---|---|
+| September 4, 2026 | Account deletion corrected to the shipped 30-day recovery window with one-click email restore; self-serve data export described (email as fallback); credit pricing detailed (5-minute entries, per-5-minute interviews, monthly refresh, lapsed pay-as-you-go rate); pro-rata refund added for termination on our side other than breach or fraud; counsel-supplied Legacy Contact clause (§19) replaces the future-features placeholder |
 | July 14, 2026 | Third-party provider list replaced with a pointer to Privacy Policy §4.1 (single source of truth; corrects an outdated transcription-vendor reference); aggregated-data and AI-training sections aligned with the Privacy Policy's never-sell / never-train commitments; account-deletion timing corrected to match actual behavior (immediate, no grace period) |
 | April 18, 2026 | Original published version |

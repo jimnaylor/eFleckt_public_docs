@@ -1,6 +1,6 @@
 # eFleckt Privacy Policy
 
-**Effective Date: July 14, 2026**
+**Effective Date: September 4, 2026**
 
 ## 1. Introduction
 
@@ -115,7 +115,7 @@ We only share your information with service providers who are essential to opera
 | RevenueCat | In-app purchase and subscription management (iOS and Android) | Email address, purchase transactions |
 | Stripe | Payment processing (web subscriptions and credit packs) | Email address, purchase transactions (we never see or store your card number) |
 | Mapbox | Location search and map display | Search queries and coordinates (when you search for or view a location) |
-| PostHog | App analytics and performance monitoring | Pseudonymous usage events (linked to your account ID, never to the content of your entries), AI processing metrics |
+| PostHog | App analytics, performance monitoring, and customer support | Pseudonymous usage events (linked to your account ID, never to the content of your entries), AI processing metrics. When you contact support — through our website, by email, or via in-app feedback — your message, contact email, and related session information are also processed through PostHog under the same data processing agreement, so we can respond to you |
 | Vercel | Website hosting | Standard web traffic data for website visitors |
 
 ### 4.2 Legal Requirements
@@ -160,23 +160,37 @@ If we become aware of a security breach affecting your personal data, we will no
 ## 6. Data Retention
 
 - **Active accounts:** Data is retained for the life of your account
-- **Deleted entries:** Removed from active systems promptly; removed from backups within 90 days
-- **Deleted accounts:** Deleting your account removes your content from active systems immediately; residual copies in encrypted backups are purged within 90 days
+- **Deleted entries:** Individual entries you delete are recoverable for 72 hours, then removed from active systems; removed from backups within 90 days
+- **Deleted accounts:** Deleting your account starts a 30-day recovery window during which one click on the restore link in the confirmation email (or a reply to that email) fully restores it. After the window, your content is removed from active systems and residual copies in encrypted backups are purged within 90 days
+- **Lapsed subscriptions:** If your subscription lapses, your account becomes read-only and your library is retained for 3 years from your last activity. During that period we send periodic reminders and a final warning before anything is removed; recording new entries or resubscribing resets the window. At the end of the period the account follows the deleted-account schedule above (30-day recovery, then purge). Any unused purchased credits are forfeited when the account is deleted at the end of this retention period; once the account and its data are purged, credits cannot be redeemed or refunded.
+- **Legacy-released archives:** An archive that has been released to your designated legacy contact is exempt from the lapsed-subscription schedule
+- **Expired trials:** Trial accounts that never subscribe are deactivated after the trial period, following an emailed warning, with the same 30-day recovery window before permanent removal
 - **Payment records:** Retained for 7 years as required for tax and financial compliance
 - **AI processing logs:** Transient — not retained after processing is complete
 
-## 7. Your Rights and Choices
+## 7. Legacy Contacts
+
+If you designate a Legacy Contact (see Terms of Service §19), we process a small amount of information about the person you designate — before they have agreed to anything themselves. This section describes that processing.
+
+- **What we collect:** the name and email address you provide for your contact, used to send them your invitation. Our lawful basis for this is legitimate interest in carrying out your designation; the invitation email itself explains why they received it.
+- **If they accept:** we record their acceptance, when it happened, and which form of verification was used (a matching signed-in email, or the single-use code sent to the invited address).
+- **If they decline:** we immediately erase their name and email address, keeping only a one-way hash of the email and a timestamp as an audit record that an invitation was declined.
+- **Notifications:** if a release countdown ever starts on your account, we notify you at your account email address, and we log whether delivery succeeded. As the Terms describe, the countdown does not depend on delivery.
+- **After a release:** your contact receives read-only access to your archive and a downloadable export. Their own account information is handled under this Privacy Policy like any other account. A released archive is preserved for your contact regardless of your subscription status, retained until your contact chooses to delete it; your contact can exercise deletion rights over the archive they hold.
+- **Your control:** you can change or revoke your designated contact at any time, from any state of the process — the Terms of Service describe the mechanics and their limits (an export already downloaded before revocation is outside our systems).
+
+## 8. Your Rights and Choices
 
 You have significant control over your information:
 
 - **Access Your Data:** View all content through the app or request a complete copy
-- **Export Your Data:** Request a data export by emailing us; fulfilled within 30 days
+- **Export Your Data:** Run a self-serve archive export (including audio) from our website at any time, or request one by email (fulfilled within 30 days)
 - **Correct or Update:** Update your name and date of birth anytime through account settings
 - **Delete Your Data:** Delete individual entries, cast members, or locations within the app, or delete your entire account
 - **Control AI Processing:** Review and edit AI-generated classifications, chapter assignments, and summaries
 - **Opt Out of Analytics:** Contact us to opt out of PostHog analytics tracking
 
-## 8. California Residents' Rights (CCPA)
+## 9. California Residents' Rights (CCPA)
 
 California residents have additional rights under the CCPA:
 
@@ -187,15 +201,15 @@ California residents have additional rights under the CCPA:
 
 To exercise these rights, contact us at efleckt@naylormade.io. We will respond within 45 days.
 
-## 9. Children's Privacy
+## 10. Children's Privacy
 
 eFleckt is not intended for users under 18 years of age. We do not knowingly collect information from anyone under 18. If we discover that we have collected information from a user under 18, we will delete it immediately. If you believe a child under 18 has provided us with personal information, please contact us at efleckt@naylormade.io.
 
-## 10. International Data Transfers
+## 11. International Data Transfers
 
 eFleckt is operated from the United States, and your information is stored and processed on servers located in the United States (AWS US West, Oregon). If you are located outside the United States, please be aware that data protection laws in the United States may differ from those in your country. eFleckt is currently offered in the United States; if we make the Service available in the European Economic Area or the United Kingdom, we will put appropriate transfer safeguards in place and describe them here before doing so.
 
-## 11. AI and Automated Processing
+## 12. AI and Automated Processing
 
 eFleckt uses artificial intelligence to enhance your experience:
 
@@ -214,24 +228,21 @@ eFleckt uses artificial intelligence to enhance your experience:
 - You can review and edit all AI-generated content (summaries, classifications, chapter assignments)
 - We do not use your recordings or entries to train any AI models — your content is processed only to generate results for you
 
-## 12. Cookies and Tracking
+## 13. Cookies and Tracking
 
 **Mobile App:** The eFleckt mobile app does not use cookies. Analytics are collected via PostHog's mobile SDK using pseudonymous event tracking (events are linked to your account ID so we can understand usage, but never contain your content).
 
 **What we track:** Product analytics include event data such as screens viewed, features used, and aggregate usage patterns. We use this data solely to improve the product. Analytics events never contain the content of your entries, the names of your cast members, the names of your locations, or any other personal narrative content. Your story stays yours — analytics only tells us which buttons you tap, not what you say.
 
-**Website:** Our website (hosted on Vercel) may use:
-
-- Essential cookies required for website functionality
-- Analytics (PostHog) to understand website usage — you can opt out
+**Website:** Our website runs a single analytics tool (PostHog) and no advertising trackers. By default it operates **cookieless**: nothing is stored on your device, and analytics are anonymous and session-only. A small banner offers one optional analytics cookie; if you accept, an identifier is stored (cookie and local storage) so we can understand returning visits. If you decline, the cookieless default simply continues. Your choice itself is remembered in local storage as strictly-necessary storage, so we don't ask again. Essential storage required for site functionality — such as your sign-in session — does not depend on this choice.
 
 We do NOT use advertising cookies, cross-site tracking, or retargeting on either the app or website.
 
-## 13. Changes to This Privacy Policy
+## 14. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. We will notify you of material changes by posting the new policy in the app and updating the "Effective Date" at the top. Your continued use of eFleckt after changes are posted constitutes your acceptance of the updated policy.
 
-## 14. Contact Us
+## 15. Contact Us
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:
 
@@ -269,5 +280,6 @@ We will respond within 5-7 business days for general questions, and within 45 da
 
 | Effective Date | Summary |
 |---|---|
+| September 4, 2026 | New §7 Legacy Contacts (processing of a designated contact's data: invite basis, acceptance record, decline erasure with hashed tombstone, post-release handling); subsequent sections renumbered. Account-deletion recovery described with the one-click email restore; lapsed-subscription retention keeps the recording-activity extension; unused purchased credits forfeited at end-of-retention deletion (counsel-reviewed disposition); expired-trial cleanup described with its warning and recovery window; website cookie section updated to the consent-first cookieless model |
 | July 14, 2026 | Consent controls documented (§3.3); aggregated-data and AI-training commitments aligned with the Terms of Service; PostHog analytics correctly described as pseudonymous; security commitments clarified (no-overclaim wording, new §5.4 breach notification); deletion timing corrected to match actual behavior (immediate); international-transfer wording revised |
 | June 14, 2026 | Original published version |
