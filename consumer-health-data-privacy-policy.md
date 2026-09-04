@@ -1,6 +1,6 @@
 # eFleckt Consumer Health Data Privacy Policy
 
-**Effective Date: [set at public App Store launch — draft under counsel review]**
+**Effective Date: to be set at public App Store launch**
 
 This policy supplements the [eFleckt Privacy Policy](https://efleckt.com/privacy) and applies to personal information that qualifies as **"consumer health data"** under Washington's My Health My Data Act, Nevada's SB 370, and comparable state laws (including Connecticut's Data Privacy Act as amended). It exists because those laws treat *inferences about your mental or emotional state* as health data — and eFleckt's optional emotion analysis makes exactly that kind of inference. Where this policy and the general Privacy Policy overlap, the stronger protection applies.
 
@@ -61,4 +61,4 @@ Material changes to this policy will be announced in the app or by email before 
 
 | Effective Date | Summary |
 |---|---|
-| *Pending counsel review — effective at public launch* | Original version, drafted for the Washington MHMD / Nevada SB 370 formalities per counsel's Aug 2026 guidance |
+| *Effective at public launch* | Original version, drafted for the Washington MHMD / Nevada SB 370 formalities per counsel's Aug 2026 guidance; reviewed and confirmed compliant as written by counsel, September 2026 |

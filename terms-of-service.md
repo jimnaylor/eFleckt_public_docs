@@ -1,6 +1,6 @@
 # eFleckt Terms and Conditions
 
-**Effective Date: July 14, 2026** *(revision draft under counsel review — new effective date set on publication)*
+**Effective Date: September 4, 2026**
 
 ## 1. Introduction
 
@@ -286,6 +286,6 @@ We will respond to your inquiry within a reasonable timeframe, typically within 
 
 | Effective Date | Summary |
 |---|---|
-| *Pending counsel review* | Account deletion corrected to the shipped 30-day recovery window with one-click email restore; self-serve data export described (email as fallback); credit pricing detailed (5-minute entries, per-5-minute interviews, monthly refresh, lapsed pay-as-you-go rate); pro-rata refund added for termination on our side other than breach or fraud; counsel-supplied Legacy Contact clause (§19) replaces the future-features placeholder |
+| September 4, 2026 | Account deletion corrected to the shipped 30-day recovery window with one-click email restore; self-serve data export described (email as fallback); credit pricing detailed (5-minute entries, per-5-minute interviews, monthly refresh, lapsed pay-as-you-go rate); pro-rata refund added for termination on our side other than breach or fraud; counsel-supplied Legacy Contact clause (§19) replaces the future-features placeholder |
 | July 14, 2026 | Third-party provider list replaced with a pointer to Privacy Policy §4.1 (single source of truth; corrects an outdated transcription-vendor reference); aggregated-data and AI-training sections aligned with the Privacy Policy's never-sell / never-train commitments; account-deletion timing corrected to match actual behavior (immediate, no grace period) |
 | April 18, 2026 | Original published version |

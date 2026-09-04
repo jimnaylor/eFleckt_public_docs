@@ -1,6 +1,6 @@
 # eFleckt Privacy Policy
 
-**Effective Date: July 14, 2026** *(revision draft under counsel review — new effective date set on publication)*
+**Effective Date: September 4, 2026**
 
 ## 1. Introduction
 
@@ -162,7 +162,7 @@ If we become aware of a security breach affecting your personal data, we will no
 - **Active accounts:** Data is retained for the life of your account
 - **Deleted entries:** Individual entries you delete are recoverable for 72 hours, then removed from active systems; removed from backups within 90 days
 - **Deleted accounts:** Deleting your account starts a 30-day recovery window during which one click on the restore link in the confirmation email (or a reply to that email) fully restores it. After the window, your content is removed from active systems and residual copies in encrypted backups are purged within 90 days
-- **Lapsed subscriptions:** If your subscription lapses, your account becomes read-only and your library is retained for 3 years from your last activity. During that period we send periodic reminders and a final warning before anything is removed; recording new entries or resubscribing resets the window. At the end of the period the account follows the deleted-account schedule above (30-day recovery, then purge). *[Under counsel review: disposition of unused purchased credits when a retained archive reaches the end of its window — final language pending.]*
+- **Lapsed subscriptions:** If your subscription lapses, your account becomes read-only and your library is retained for 3 years from your last activity. During that period we send periodic reminders and a final warning before anything is removed; recording new entries or resubscribing resets the window. At the end of the period the account follows the deleted-account schedule above (30-day recovery, then purge). Any unused purchased credits are forfeited when the account is deleted at the end of this retention period; once the account and its data are purged, credits cannot be redeemed or refunded.
 - **Legacy-released archives:** An archive that has been released to your designated legacy contact is exempt from the lapsed-subscription schedule
 - **Expired trials:** Trial accounts that never subscribe are deactivated after the trial period, following an emailed warning, with the same 30-day recovery window before permanent removal
 - **Payment records:** Retained for 7 years as required for tax and financial compliance
@@ -280,6 +280,6 @@ We will respond within 5-7 business days for general questions, and within 45 da
 
 | Effective Date | Summary |
 |---|---|
-| *Pending counsel review* | New §7 Legacy Contacts (processing of a designated contact's data: invite basis, acceptance record, decline erasure with hashed tombstone, post-release handling); subsequent sections renumbered. Account-deletion recovery described with the one-click email restore; lapsed-subscription retention keeps the recording-activity extension; unused-credit disposition at end of retention bracketed for counsel; expired-trial cleanup described with its warning and recovery window; website cookie section updated to the consent-first cookieless model |
+| September 4, 2026 | New §7 Legacy Contacts (processing of a designated contact's data: invite basis, acceptance record, decline erasure with hashed tombstone, post-release handling); subsequent sections renumbered. Account-deletion recovery described with the one-click email restore; lapsed-subscription retention keeps the recording-activity extension; unused purchased credits forfeited at end-of-retention deletion (counsel-reviewed disposition); expired-trial cleanup described with its warning and recovery window; website cookie section updated to the consent-first cookieless model |
 | July 14, 2026 | Consent controls documented (§3.3); aggregated-data and AI-training commitments aligned with the Terms of Service; PostHog analytics correctly described as pseudonymous; security commitments clarified (no-overclaim wording, new §5.4 breach notification); deletion timing corrected to match actual behavior (immediate); international-transfer wording revised |
 | June 14, 2026 | Original published version |
