@@ -1,6 +1,6 @@
 # eFleckt Privacy Policy
 
-**Effective Date: September 4, 2026**
+**Effective Date: September 9, 2026**
 
 ## 1. Introduction
 
@@ -49,6 +49,7 @@ When you create an entry, our AI pipeline generates additional data derived from
 - Entity summaries synthesized across multiple entries about a person or place
 - **Whole-life narratives** — a 5-paragraph chronological life story and six per-emotion-family reflections, synthesized by reading all of your entries together. These power the "Your Story" surface and the Emotions tab on your About Me page. They regenerate on your explicit request, and automatically become free to refresh after 90 days or 15 new entries since the last generation
 - Semantic embeddings (numerical representations of your entry content used for search and connections — not human-readable)
+- Personalized questions and prompts suggested from your content (see Section 3.1)
 
 ### 2.3 Information Collected Automatically
 
@@ -57,6 +58,8 @@ When you create an entry, our AI pipeline generates additional data derived from
 **Location (optional):** When you record a present-moment entry, your device's GPS coordinates may be captured once to help identify the location. This requires your explicit permission and is never tracked in the background.
 
 **Usage Analytics:** App features used, navigation patterns, crash reports, performance data (collected via PostHog)
+
+**Device identifier for notifications:** If you enable notifications, we register a device push token (through Apple Push Notification service and our messaging provider, PostHog) so we can deliver reminders and account notifications to your device. Our analytics provider (PostHog) also assigns a pseudonymous device identifier to distinguish devices. Neither is used for advertising, and neither is shared with data brokers. You can turn notifications off at any time in your device settings.
 
 **Website Data:** When you visit our website, standard web server logs and analytics data may be collected by our hosting provider (Vercel)
 
@@ -79,6 +82,7 @@ We use your information solely to provide, maintain, improve, and protect our Se
 - **Semantic Search:** Creating numerical embeddings of your content using Google Gemini's embedding model to enable connections and search across your entries
 - **Memory Organization:** Organizing entries into chapters, associating cast members and locations, and presenting your personal timeline
 - **Subscription Management:** Processing subscriptions and credit pack purchases through RevenueCat (iOS and Android) and Stripe (web)
+- **Personalized Prompts & Questions:** Analyzing your own entries to suggest questions and prompts tailored to your stories — for example, a follow-up about a person or moment you mentioned — so the prompts you see are personally relevant. These are generated from your content, for your use only, and are never used for advertising or shared with third parties for their own purposes.
 
 ### 3.2 What We Will NEVER Do
 
@@ -280,6 +284,7 @@ We will respond within 5-7 business days for general questions, and within 45 da
 
 | Effective Date | Summary |
 |---|---|
+| September 9, 2026 | Clarifications (descriptive; no new data uses or rights): documented the device push token + pseudonymous analytics device identifier used to deliver notifications (§2.3); documented that personalized questions and prompts are generated from your own content (§2.2, §3.1). Aligns the policy with the App Store privacy label. |
 | September 4, 2026 | New §7 Legacy Contacts (processing of a designated contact's data: invite basis, acceptance record, decline erasure with hashed tombstone, post-release handling); subsequent sections renumbered. Account-deletion recovery described with the one-click email restore; lapsed-subscription retention keeps the recording-activity extension; unused purchased credits forfeited at end-of-retention deletion (counsel-reviewed disposition); expired-trial cleanup described with its warning and recovery window; website cookie section updated to the consent-first cookieless model |
 | July 14, 2026 | Consent controls documented (§3.3); aggregated-data and AI-training commitments aligned with the Terms of Service; PostHog analytics correctly described as pseudonymous; security commitments clarified (no-overclaim wording, new §5.4 breach notification); deletion timing corrected to match actual behavior (immediate); international-transfer wording revised |
 | June 14, 2026 | Original published version |
