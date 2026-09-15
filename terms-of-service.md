@@ -221,8 +221,8 @@ You may terminate your account at any time by deleting it through the app. Upon 
 **Opt-Out:** You may opt out of the arbitration provision within 30 days of accepting these Terms by sending written notice to:
 
 Naylormade, LLC
-1267 Willis St., STE 200
-Redding, CA 96001
+2108 N St., STE N
+Sacramento, CA 95816
 
 ## 16. Governing Law and Venue
 
@@ -276,7 +276,7 @@ If you have any questions, concerns, or complaints about these Terms or the Serv
 
 Email: efleckt@naylormade.io
 
-Address: 1267 Willis St., STE 200, Redding, CA 96001
+Address: 2108 N St., STE N, Sacramento, CA 95816
 
 We will respond to your inquiry within a reasonable timeframe, typically within 5-7 business days.
 

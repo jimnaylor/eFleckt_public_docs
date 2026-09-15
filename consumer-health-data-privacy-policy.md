@@ -51,11 +51,11 @@ To exercise any right, use the in-app controls, or email **hello@efleckt.com** w
 
 ## 6. Appeals
 
-If we decline a request, we will explain why, and you may appeal by replying to our response or emailing **hello@efleckt.com** with the subject "Consumer Health Data Appeal." We will decide appeals within 45 days and explain the outcome. If your appeal is denied, you may contact your state Attorney General — for Washington: www.atg.wa.gov; for Nevada: ag.nv.gov; for Connecticut: portal.ct.gov/ag.
+If we decline a request, we will explain why, and you may appeal by replying to our response or emailing **efleckt@naylormade.io** with the subject "Consumer Health Data Appeal." We will decide appeals within 45 days and explain the outcome. If your appeal is denied, you may contact your state Attorney General — for Washington: www.atg.wa.gov; for Nevada: ag.nv.gov; for Connecticut: portal.ct.gov/ag.
 
 ## 7. Changes and Contact
 
-Material changes to this policy will be announced in the app or by email before they take effect. Questions: **hello@efleckt.com**, or Naylormade, LLC, 30 Corte el Brazo, San Clemente, CA 92673.
+Material changes to this policy will be announced in the app or by email before they take effect. Questions: **efleckt@naylormade.io**, or Naylormade, LLC, 2108 N St., STE N, Sacramento, CA 95816.
 
 ## Version History
 
