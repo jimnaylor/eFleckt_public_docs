@@ -256,7 +256,7 @@ eFleckt Privacy Team
 
 Email: efleckt@naylormade.io
 
-Mail: 1267 Willis St., STE 200, Redding, CA 96001
+Mail: 2108 N St., STE N, Sacramento, CA 95816
 
 We will respond within 5-7 business days for general questions, and within 45 days for CCPA requests.
 
