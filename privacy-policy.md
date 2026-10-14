@@ -1,6 +1,6 @@
 # eFleckt Privacy Policy
 
-**Effective Date: September 9, 2026**
+**Effective Date: October 14, 2026**
 
 ## 1. Introduction
 
@@ -122,6 +122,8 @@ We only share your information with service providers who are essential to opera
 | PostHog | App analytics, performance monitoring, and customer support | Pseudonymous usage events (linked to your account ID, never to the content of your entries), AI processing metrics. When you contact support — through our website, by email, or via in-app feedback — your message, contact email, and related session information are also processed through PostHog under the same data processing agreement, so we can respond to you |
 | Vercel | Website hosting | Standard web traffic data for website visitors |
 
+When we add or replace a service provider that handles your data, we update this table and the Effective Date at the top of this policy; material additions are also announced in the app. The current list is always the one published at efleckt.com/privacy.
+
 ### 4.2 Legal Requirements
 
 We may disclose your information if required by law, regulation, legal process, or governmental request.
@@ -193,6 +195,7 @@ You have significant control over your information:
 - **Delete Your Data:** Delete individual entries, cast members, or locations within the app, or delete your entire account
 - **Control AI Processing:** Review and edit AI-generated classifications, chapter assignments, and summaries
 - **Opt Out of Analytics:** Contact us to opt out of PostHog analytics tracking
+- **Marketing Email:** Account, billing and security notices are part of the Service and cannot be switched off. Any product-update or marketing email we send carries an unsubscribe link and our postal address, and opting out takes effect within ten business days
 
 ## 9. California Residents' Rights (CCPA)
 
@@ -242,6 +245,8 @@ eFleckt uses artificial intelligence to enhance your experience:
 
 We do NOT use advertising cookies, cross-site tracking, or retargeting on either the app or website.
 
+**Do Not Track and Global Privacy Control:** because we do not track you across other sites or services and do not sell or share your personal information, we treat every visitor the same way whether or not their browser sends a Do Not Track or Global Privacy Control signal. There is nothing for the signal to switch off.
+
 ## 14. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. We will notify you of material changes by posting the new policy in the app and updating the "Effective Date" at the top. Your continued use of eFleckt after changes are posted constitutes your acceptance of the updated policy.
@@ -284,6 +289,7 @@ We will respond within 5-7 business days for general questions, and within 45 da
 
 | Effective Date | Summary |
 |---|---|
+| October 14, 2026 | Clarifications (descriptive; no new data uses or rights): added a Do Not Track / Global Privacy Control statement (§13); stated how changes to the service-provider list are announced (§4.1); described marketing-email opt-out and that account, billing and security notices are part of the Service (§8). |
 | September 9, 2026 | Clarifications (descriptive; no new data uses or rights): documented the device push token + pseudonymous analytics device identifier used to deliver notifications (§2.3); documented that personalized questions and prompts are generated from your own content (§2.2, §3.1). Aligns the policy with the App Store privacy label. |
 | September 4, 2026 | New §7 Legacy Contacts (processing of a designated contact's data: invite basis, acceptance record, decline erasure with hashed tombstone, post-release handling); subsequent sections renumbered. Account-deletion recovery described with the one-click email restore; lapsed-subscription retention keeps the recording-activity extension; unused purchased credits forfeited at end-of-retention deletion (counsel-reviewed disposition); expired-trial cleanup described with its warning and recovery window; website cookie section updated to the consent-first cookieless model |
 | July 14, 2026 | Consent controls documented (§3.3); aggregated-data and AI-training commitments aligned with the Terms of Service; PostHog analytics correctly described as pseudonymous; security commitments clarified (no-overclaim wording, new §5.4 breach notification); deletion timing corrected to match actual behavior (immediate); international-transfer wording revised |
