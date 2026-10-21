@@ -1,6 +1,6 @@
 # eFleckt Privacy Policy
 
-**Effective Date: October 14, 2026**
+**Effective Date: [DATE]**
 
 ## 1. Introduction
 
@@ -195,7 +195,7 @@ You have significant control over your information:
 - **Delete Your Data:** Delete individual entries, cast members, or locations within the app, or delete your entire account
 - **Control AI Processing:** Review and edit AI-generated classifications, chapter assignments, and summaries
 - **Opt Out of Analytics:** Contact us to opt out of PostHog analytics tracking
-- **Marketing Email:** Account, billing and security notices are part of the Service and cannot be switched off. Any product-update or marketing email we send carries an unsubscribe link and our postal address, and opting out takes effect within ten business days
+- **Marketing Email:** Account, billing and security notices are part of the Service and cannot be switched off. Any product-update or marketing email we send carries an unsubscribe link and our postal address, and opting out takes effect within ten business days. You can also turn product-update emails off in the app (Settings → Notifications), and you're given the choice when you sign up
 
 ## 9. California Residents' Rights (CCPA)
 
@@ -289,6 +289,7 @@ We will respond within 5-7 business days for general questions, and within 45 da
 
 | Effective Date | Summary |
 |---|---|
+| [DATE] | Clarification (descriptive; no new data uses or rights): §8 says where product-update emails can also be switched off: in the app's Settings and at sign-up. |
 | October 14, 2026 | Clarifications (descriptive; no new data uses or rights): added a Do Not Track / Global Privacy Control statement (§13); stated how changes to the service-provider list are announced (§4.1); described marketing-email opt-out and that account, billing and security notices are part of the Service (§8). |
 | September 9, 2026 | Clarifications (descriptive; no new data uses or rights): documented the device push token + pseudonymous analytics device identifier used to deliver notifications (§2.3); documented that personalized questions and prompts are generated from your own content (§2.2, §3.1). Aligns the policy with the App Store privacy label. |
 | September 4, 2026 | New §7 Legacy Contacts (processing of a designated contact's data: invite basis, acceptance record, decline erasure with hashed tombstone, post-release handling); subsequent sections renumbered. Account-deletion recovery described with the one-click email restore; lapsed-subscription retention keeps the recording-activity extension; unused purchased credits forfeited at end-of-retention deletion (counsel-reviewed disposition); expired-trial cleanup described with its warning and recovery window; website cookie section updated to the consent-first cookieless model |
