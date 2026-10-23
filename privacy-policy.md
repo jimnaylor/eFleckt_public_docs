@@ -1,6 +1,6 @@
 # eFleckt Privacy Policy
 
-**Effective Date: October 22, 2026**
+**Effective Date: October 24, 2026**
 
 ## 1. Introduction
 
@@ -21,6 +21,7 @@ We collect several types of information to provide and improve our Service:
 - Name
 - Email address
 - Date of birth
+- Pronouns (optional), which we use when we write about you in the third person, such as your life story on your About Me page
 
 You sign in through Google or Apple authentication. We do not collect or store passwords — authentication is handled entirely by your chosen provider using industry-standard OAuth protocols.
 
@@ -47,7 +48,7 @@ When you create an entry, our AI pipeline generates additional data derived from
 - Structured summaries and insights from your entries
 - Temporal classification (when an entry's events occurred)
 - Entity summaries synthesized across multiple entries about a person or place
-- **Whole-life narratives** — a 5-paragraph chronological life story and six per-emotion-family reflections, synthesized by reading all of your entries together. These power the "Your Story" surface and the Emotions tab on your About Me page. They regenerate on your explicit request, and automatically become free to refresh after 90 days or 15 new entries since the last generation
+- **Whole-life narratives** — a chronological life story, written about you in the third person and growing in length with your journal, and six per-emotion-family reflections, synthesized by reading all of your entries together. These power the "Your Story" surface and the Emotions tab on your About Me page. They regenerate on your explicit request, and automatically become free to refresh after 90 days or 15 new entries since the last generation
 - Semantic embeddings (numerical representations of your entry content used for search and connections — not human-readable)
 - Personalized questions and prompts suggested from your content (see Section 3.1)
 
@@ -115,7 +116,7 @@ We only share your information with service providers who are essential to opera
 | Google / Apple (OAuth) | User authentication | Email address (for sign-in only) |
 | AssemblyAI | Voice-to-text transcription | Audio recordings |
 | Google Gemini | Vocal emotion and prosody analysis, semantic embeddings for search | Audio recordings, entry text content |
-| Anthropic (Claude) | AI synthesis — per-entry summaries and insights, temporal classification, entity summaries, and the chronological whole-life narrative + per-emotion-family reflections displayed on your About Me page | Entry transcriptions, summaries, cast member names and relationships, location names, chapter structure (sent as structured context to improve accuracy). For the About Me whole-life narrative, your entire entry timeline is sent together as a single batch so the model can write the story chronologically |
+| Anthropic (Claude) | AI synthesis — per-entry summaries and insights, temporal classification, entity summaries, and the chronological whole-life narrative + per-emotion-family reflections displayed on your About Me page | Entry transcriptions, summaries, cast member names and relationships, location names, chapter structure (sent as structured context to improve accuracy). For the About Me whole-life narrative, your entire entry timeline is sent together as a single batch so the model can write the story chronologically, along with your first name and, if you have set them, your pronouns |
 | RevenueCat | In-app purchase and subscription management (iOS and Android) | Email address, purchase transactions |
 | Stripe | Payment processing (web subscriptions and credit packs) | Email address, purchase transactions (we never see or store your card number) |
 | Mapbox | Location search and map display | Search queries and coordinates (when you search for or view a location) |
@@ -191,7 +192,7 @@ You have significant control over your information:
 
 - **Access Your Data:** View all content through the app or request a complete copy
 - **Export Your Data:** Run a self-serve archive export (including audio) from our website at any time, or request one by email (fulfilled within 30 days)
-- **Correct or Update:** Update your name and date of birth anytime through account settings
+- **Correct or Update:** Update your name, date of birth and pronouns anytime through account settings
 - **Delete Your Data:** Delete individual entries, cast members, or locations within the app, or delete your entire account
 - **Control AI Processing:** Review and edit AI-generated classifications, chapter assignments, and summaries
 - **Opt Out of Analytics:** Contact us to opt out of PostHog analytics tracking
@@ -225,7 +226,7 @@ eFleckt uses artificial intelligence to enhance your experience:
 - **Synthesis:** Anthropic Claude generates structured summaries, insights, and classifications from your entries
 - **Temporal Classification:** AI determines when the events in your entry occurred and suggests chapter assignments
 - **Entity Summaries:** AI synthesizes information across entries to create summaries about people and places in your life
-- **About Me Whole-Life Synthesis:** Anthropic Claude reads your entries together to compose a 5-paragraph chronological life story and six per-emotion-family reflections for your About Me page. This synthesis is distinct from the per-entry and per-entity processing above — your full entry timeline is sent together as a single batch so the narrative reads in life-time order. The synthesis runs when you tap "Refresh" and is free to regenerate after 90 days OR 15 new entries since the last generation. Every past version is preserved so you can view the history
+- **About Me Whole-Life Synthesis:** Anthropic Claude reads your entries together to compose a chronological life story, written about you in the third person using your first name and, if you have set them, your pronouns, and six per-emotion-family reflections for your About Me page. This synthesis is distinct from the per-entry and per-entity processing above — your full entry timeline is sent together as a single batch so the narrative reads in life-time order. The synthesis runs when you tap "Refresh" and is free to regenerate after 90 days OR 15 new entries since the last generation. Every past version is preserved so you can view the history
 - **Embeddings:** Google Gemini generates semantic embeddings to enable search and connections across your entries
 
 **Important limitations:**
@@ -289,6 +290,7 @@ We will respond within 5-7 business days for general questions, and within 45 da
 
 | Effective Date | Summary |
 |---|---|
+| October 24, 2026 | New optional data: pronouns, which you can set in account settings and which are used to write your About Me life story in the third person (§2.1); the life story is now described as third-person and growing with your journal, and the Anthropic row lists your first name and pronouns among what it receives (§2.2, §4.1, §12); pronouns added to the data you can correct (§8). Users are asked to accept this version. |
 | October 22, 2026 | Clarification (descriptive; no new data uses or rights): §8 says where product-update emails can also be switched off: in the app's Settings and at sign-up. |
 | October 14, 2026 | Clarifications (descriptive; no new data uses or rights): added a Do Not Track / Global Privacy Control statement (§13); stated how changes to the service-provider list are announced (§4.1); described marketing-email opt-out and that account, billing and security notices are part of the Service (§8). |
 | September 9, 2026 | Clarifications (descriptive; no new data uses or rights): documented the device push token + pseudonymous analytics device identifier used to deliver notifications (§2.3); documented that personalized questions and prompts are generated from your own content (§2.2, §3.1). Aligns the policy with the App Store privacy label. |
