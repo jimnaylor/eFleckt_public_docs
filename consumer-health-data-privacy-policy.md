@@ -35,7 +35,7 @@ We do not use consumer health data for advertising, do not build marketing profi
 
 **We do not share or sell your consumer health data to any third party for their own use. The list of third parties and affiliates with whom your consumer health data is shared or sold is: none.**
 
-To operate the product, service providers process data on our instructions under binding data-processing agreements, prohibited from using it for anything else: Supabase (encrypted storage and infrastructure), AssemblyAI (speech-to-text transcription; opted out of model training), Google (Gemini — performs the vocal emotion analysis, only if you opted in), and Anthropic (writes your entry summaries; API inputs are not used to train models). If you designate a Legacy Contact, your archive — including any emotion inferences in it — can reach that one person under the release process you control (Terms of Service §19). Disclosure can also be compelled by valid legal process, as described in the Privacy Policy.
+To operate the product, service providers process data on our instructions under binding data-processing agreements, prohibited from using it for anything else: Supabase (encrypted storage and infrastructure), AssemblyAI (speech-to-text transcription; opted out of model training), Google (Gemini — performs the vocal emotion analysis, only if you opted in), and Anthropic (writes your entry summaries; API inputs are not used to train models). If you designate a Legacy Contact, your archive, except entries you mark Private, including any emotion inferences in it, can reach that one person under the release process you control (Terms of Service §19). Disclosure can also be compelled by valid legal process, as described in the Privacy Policy.
 
 ## 5. Your Rights
 
