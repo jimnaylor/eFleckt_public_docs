@@ -1,10 +1,10 @@
 # eFleckt Terms and Conditions
 
-**Effective Date: September 4, 2026**
+**Effective Date: November 14, 2026**
 
 ## 1. Introduction
 
-Welcome to eFleckt, a voice journaling service provided by Naylormade, LLC ("we," "us," "our," or "eFleckt"). These Terms and Conditions ("Terms") govern your access to and use of the eFleckt mobile application and related services (collectively, the "Service").
+Welcome to eFleckt™, a voice journaling service provided by Naylormade, LLC ("we," "us," "our," or "eFleckt"). These Terms and Conditions ("Terms") govern your access to and use of the eFleckt mobile application and related services (collectively, the "Service").
 
 By creating an account or using eFleckt, you agree to be bound by these Terms and our Privacy Policy. If you do not agree to these Terms, you may not use the Service.
 
@@ -208,7 +208,7 @@ You may terminate your account at any time by deleting it through the app. Upon 
 - Your access to the Service ceases immediately
 - Your data is deleted on the schedule described in Section 13 (a 30-day recovery window, then removal from active systems and purge from encrypted backups within 90 days)
 - If you terminate your account, or we terminate it for your breach of these Terms or fraud, any remaining credits or prepaid subscription time are forfeited, except as described in the Privacy Policy's retention section for lapsed subscriptions
-- If we terminate or suspend your account for business reasons, extended inactivity, or any reason other than your breach of these Terms or fraud, we will refund the unused portion of any prepaid subscription on a pro-rata basis and refund any unused purchased credit packs at the price paid
+- If we terminate or suspend your account for business reasons, extended inactivity, or any reason other than your breach of these Terms or fraud, we will refund the unused portion of any prepaid subscription on a pro-rata basis and refund any unused purchased credit packs at the price paid. This does not apply to the deletion of a lapsed account at the end of the retention period described in the Privacy Policy, where unused purchased credits are forfeited as described there.
 
 ## 15. Dispute Resolution
 
@@ -241,9 +241,9 @@ We may modify these Terms at any time. We will provide at least 30 days' notice 
 
 ## 19. Legacy Contact
 
-**19.1 Overview of the Legacy Contact Feature.** The Service offers an optional feature ("Legacy Contact") that allows an account holder ("Owner") to designate one individual ("Contact") to receive read-only access to the Owner's archived content, including voice recordings, transcripts, AI-generated summaries, and emotion analysis (collectively, "Archive"), upon the Owner's death, extended inactivity, or voluntary release.
+**19.1 Overview of the Legacy Contact Feature.** The Service offers an optional feature ("Legacy Contact") that allows an account holder ("Owner") to designate one individual ("Contact") to receive read-only access to the Owner's archived content, including voice recordings, transcripts, AI-generated summaries, and emotion analysis, but excluding any entry the Owner has marked Private and any person or place known only from such entries (collectively, "Archive"), upon the Owner's death, extended inactivity, or voluntary release.
 
-**19.2 Designating and Accepting a Legacy Contact.** An Owner may designate one Contact by providing the Contact's email address. The Contact will receive an email invitation and must accept the designation by either (a) creating or logging into an account on our website using an email address that matches the invited address, or (b) entering a single-use six-digit code provided in the invitation. A designation is not active, and no rights or access arise from it, until acceptance is completed through one of these methods. The Owner may change or revoke the designated Contact at any time before or after acceptance.
+**19.2 Designating and Accepting a Legacy Contact.** An Owner may designate one Contact by providing the Contact's email address. Designating a Contact requires a paid subscription that is active at the time of designation. The Contact will receive an email invitation and must accept the designation by either (a) creating or logging into an account on our website using an email address that matches the invited address, or (b) entering a single-use six-digit code provided in the invitation. A designation is not active, and no rights or access arise from it, until acceptance is completed through one of these methods. The Owner may change or revoke the designated Contact at any time before or after acceptance.
 
 **19.3 Inactivity-Based Release.** An Owner may configure an inactivity period of between three (3) and eighteen (18) months (default: twelve (12) months) after which, if the Owner has not signed in to the Service, release of the Archive to an accepted Contact may begin in accordance with Section 19.5. The Owner may change this configured period at any time while the Owner remains active. This inactivity timer is a release trigger only and does not affect the Owner's account while the Owner is alive and using the Service. A living Owner who exceeds the configured inactivity period will not lose access to, or control over, their account or Archive on that basis alone; the Owner's sign-in at any point, including after the countdown described in Section 19.5 has begun, cancels the pending release as set out below.
 
@@ -257,7 +257,7 @@ We may modify these Terms at any time. We will provide at least 30 days' notice 
 
 **19.8 Revocation.** The Owner may revoke a Contact's designation at any time and from any state of the designation or release process, including before acceptance, during an active countdown, and after a release has already completed, regardless of which release path (inactivity, Contact request, or voluntary self-release) produced it and regardless of which delivery method was used. Revocation after a completed release will terminate any ongoing in-app read-only access granted under Section 19.7(b) going forward, but we cannot recall, delete, or otherwise affect copies of an export already downloaded under Section 19.7(a) before revocation, as those copies exist outside our systems.
 
-**19.9 Effect on Account Cleanup and Deletion.** Our standard policies of deactivating and deleting accounts after an extended period of non-payment or inactivity, as described in the Privacy Policy's Data Retention section, do not apply to any account with an accepted Legacy Contact designation. Such accounts are exempt from deactivation and deletion until the applicable release process described in this section, including any pending thirty (30)-day countdown, has fully run its course, regardless of the account's payment or activity status.
+**19.9 Effect on Account Cleanup and Deletion.** Our standard policies of deactivating and deleting accounts after an extended period of non-payment or inactivity, as described in the Privacy Policy's Data Retention section, do not apply to any account with an accepted Legacy Contact designation. Such accounts are exempt from deactivation and deletion until the applicable release process described in this section, including any pending thirty (30)-day countdown, has fully run its course, regardless of the account's payment or activity status. This exemption does not apply to an account deactivated at the end of a free trial.
 
 **19.10 No Guarantee of Notice or Timing.** Because notifications are sent to the email address on file and delivery cannot be guaranteed, Owners are responsible for keeping their account email address current and for understanding that the timelines in this section run independently of whether notifications are actually received.
 
@@ -268,7 +268,15 @@ We may modify these Terms at any time. We will provide at least 30 days' notice 
 - Does NOT constitute legal advice
 - Should be used in conjunction with proper legal estate planning
 
-## 20. Contact Information
+## 20. Copyright Infringement Notices
+
+We respect the intellectual property rights of others. If you believe content on the Service infringes your copyright, send a notice to our designated agent: Copyright Agent, NaylorMade, LLC., 2108 N St, Ste N, Sacramento, CA 95816, hello@efleckt.com. Your notice must include: (1) your physical or electronic signature, or that of a person authorized to act for the copyright owner; (2) identification of the copyrighted work; (3) identification of the material claimed to be infringing and information reasonably sufficient for us to locate it; (4) your contact information; (5) a statement that you have a good-faith belief the use is not authorized by the copyright owner, its agent, or the law; and (6) a statement, under penalty of perjury, that the information in the notice is accurate and that you are authorized to act for the copyright owner.
+
+If we remove your content in response to a notice, we will tell you. You may send our agent a counter-notice that meets the requirements of 17 U.S.C. §512(g)(3). We may restore the content unless the complaining party tells us it has filed an action seeking a court order.
+
+In appropriate circumstances, we will terminate the accounts of users who are repeat infringers.
+
+## 21. Contact Information
 
 If you have any questions, concerns, or complaints about these Terms or the Service, please contact us:
 
@@ -286,6 +294,7 @@ We will respond to your inquiry within a reasonable timeframe, typically within 
 
 | Effective Date | Summary |
 |---|---|
+| November 14, 2026 | Legacy Contact: entries the Owner has marked Private, and people or places known only from them, are excluded from the Archive (§19.1); designating a Contact requires an active paid subscription (§19.2); the cleanup exemption does not apply to an account deactivated at the end of a free trial (§19.9). Termination: unused purchased credits are forfeited when a lapsed account is deleted at the end of the retention period, as the Privacy Policy already describes (§14). New Copyright Infringement Notices section (§20); Contact Information is now §21. Trademark symbol added on first mention. Users are asked to accept this version. |
 | September 4, 2026 | Account deletion corrected to the shipped 30-day recovery window with one-click email restore; self-serve data export described (email as fallback); credit pricing detailed (5-minute entries, per-5-minute interviews, monthly refresh, lapsed pay-as-you-go rate); pro-rata refund added for termination on our side other than breach or fraud; counsel-supplied Legacy Contact clause (§19) replaces the future-features placeholder |
 | July 14, 2026 | Third-party provider list replaced with a pointer to Privacy Policy §4.1 (single source of truth; corrects an outdated transcription-vendor reference); aggregated-data and AI-training sections aligned with the Privacy Policy's never-sell / never-train commitments; account-deletion timing corrected to match actual behavior (immediate, no grace period) |
 | April 18, 2026 | Original published version |
